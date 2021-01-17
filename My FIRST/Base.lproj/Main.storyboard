@@ -23,7 +23,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gjr-g9-6xk">
-                                <rect key="frame" x="151" y="590" width="112" height="74"/>
+                                <rect key="frame" x="151" y="597" width="112" height="74"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="linkColor"/>
                                 <state key="normal" title="Button">
@@ -35,7 +35,11 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="lQc-cD-ihg" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="B4F-ma-Whh"/>
+                            <constraint firstItem="lQc-cD-ihg" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="BYr-mt-uUV"/>
                             <constraint firstItem="lQc-cD-ihg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Ipe-aa-GGp"/>
+                            <constraint firstItem="lQc-cD-ihg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="oQF-m7-oMo"/>
+                            <constraint firstItem="lQc-cD-ihg" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="qmb-RI-7wg"/>
+                            <constraint firstItem="lQc-cD-ihg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="yGJ-9j-S5k"/>
                         </constraints>
                     </view>
                     <connections>
